@@ -1,7 +1,0 @@
-# uzman
-UzMaN the most powerful DoS tool
-Download the File uzman.c to your Desktop
-Open Terminal and type these commands
-cd Desktop
-gcc uzman.c -o uzman
-USAGE : ./uzman www.site.com 80
