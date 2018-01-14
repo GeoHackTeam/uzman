@@ -1,4 +1,4 @@
-/* XerXes - Most powerful dos tool - THN (http://www.thehackernews.com) */
+/* Uzman - Most powerful dos tool - GHT (http://www.GeoHackTeam.Ge) */
 
 #include <stdio.h>
 #include <stdlib.h>
