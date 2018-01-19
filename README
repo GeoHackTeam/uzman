@@ -1,0 +1,8 @@
+# BotHacked
+BotHacked the most powerful DoS tool
+Download the File BotHacked to your Desktop
+Open Terminal and type these commands
+cd Desktop
+cd bothacked
+chmod +x BotHacked.py
+USAGE : ./BotHacked.py -s 94.43.249.2 -p 80
