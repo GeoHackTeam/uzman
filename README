@@ -1,8 +1,8 @@
-# BotHacked
-BotHacked the most powerful DoS tool
-Download the File BotHacked to your Desktop
+# Uzman
+uzman the most powerful DoS tool
+Download the File uzman.c to your Desktop
 Open Terminal and type these commands
 cd Desktop
-cd bothacked
-chmod +x BotHacked.py
-USAGE : ./BotHacked.py -s 94.43.249.2 -p 80
+cd uzman
+gcc uzman.c -o uzman
+USAGE : ./uzman 94.43.249.2 80
